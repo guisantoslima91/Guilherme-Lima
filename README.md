@@ -1,4 +1,4 @@
-Guilherme-Lima
+Guilherme Lima
 ==============
 Programador em Java e SQL com facilidade na dialogação com o Cliente, familiaridade 
 em trabalhar em Grupo ou Equipe, habilidade em levantamentos de Requisitos e um bom 
